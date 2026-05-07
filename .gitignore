@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+random_param_presets.json
