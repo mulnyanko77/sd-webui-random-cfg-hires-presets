@@ -116,7 +116,7 @@ AUTOMATIC1111 WebUI の拡張機能画面から、GitHub URLを指定してイ�
 4. `URL for extension's git repository` に以下のURLを貼り付ける
 
 ```text
-https://github.com/mulnyanko77/sd-webui-random-cfg-hires-presets-v1
+https://github.com/mulnyanko77/sd-webui-random-cfg-hires-presets
 ```
 
 5. `Install` を押す
@@ -300,7 +300,7 @@ You can install this extension directly from AUTOMATIC1111 WebUI by using the Gi
 4. Paste the following URL into `URL for extension's git repository`
 
 ```text
-https://github.com/mulnyanko77/sd-webui-random-cfg-hires-presets-v1
+https://github.com/mulnyanko77/sd-webui-random-cfg-hires-presets
 ```
 
 5. Click `Install`
